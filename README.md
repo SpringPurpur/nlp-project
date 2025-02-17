@@ -1,0 +1,1 @@
+Project for comparing zero-shot classifiers between NLP models
