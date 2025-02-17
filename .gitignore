@@ -1,0 +1,25 @@
+# Ignore virtual environment folder
+nlp_env/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore other unnecessary folders and files
+include/
+Lib/
+share/
+
+# Ignore models, datasets, and other large files
+models/
+datasets/
+*.bin
+*.ckpt
+*.h5
+*.pth
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumb.db
