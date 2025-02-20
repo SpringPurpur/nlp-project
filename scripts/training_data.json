@@ -1,0 +1,14 @@
+[
+    {
+        "text": "AI is transforming the healthcare industry by diagnosing diseases faster.",
+        "labels": ["AI", "Healthcare"]
+    },
+    {
+        "text": "Machine learning models can predict crop yields with high accuracy.",
+        "labels": ["AI", "Agriculture"]
+    },
+    {
+        "text": "Online courses are becoming more popular for remote education.",
+        "labels": ["Education"]
+    }
+]
